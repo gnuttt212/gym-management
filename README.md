@@ -1,6 +1,7 @@
 # GYM Manager – Hệ Thống Quản Lý Phòng Tập Gym
 
 > Đồ án môn học Công nghệ Phần Mềm – Xây dựng hệ thống quản lý phòng tập gym.
+https://docs.google.com/document/d/197QNYJXw51Q7xTcSqx12FNQCC6btSMWyU6VzglMFcJ8/edit?usp=sharing
 
 ## Mô Tả
 
